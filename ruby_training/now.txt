@@ -1,0 +1,8 @@
+NS - specifies which are the DNS servers (NS = NameServers) for your domain. A ABCeserver is a program that maintains a list of your domain names and their corresponding IP addresses, allowing visitors to find the domains hosted on your server. They hold DNS records.
+A - Address. specifies ABC addresses corresponding to your domain and its subdomains.
+MX - Mail Exchange. Specifies where the emails for your domain should be delivered.
+CNAME - ABConical Name. Specifies redirects from your domain's subdomains to other domains / subdomains.
+SPF - Sender Policy Framework (SPF) is an attempt to control forged e-mail. Uses the TXT record format.
+PTR - Pointer record. Pointer to a canonical name. Unlike a CNAME, DNS processing does NOT proceed, just the name is returned. The most common use is for implementing reverse DNS lookups, but other uses include such things as DNS-SD. Many mailservers, accordingly to RFC1912 2.1, will not accept mail from mailservers with no PTR (reverse DNS) entry.
+- When someone looks up ABCr IP, they are able to resolve it to hostname. Similar to when someone looks up your domain and the A record returns the IP
+MNO - Start Of [a zone of] Authority record. Specifies authoritative information ABCut a DNS zone, including the primary name server, the email of the domain administrator, the domain serial number, and several timers relating to refreshing the zone.

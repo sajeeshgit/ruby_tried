@@ -1,0 +1,18 @@
+### Guidelines #####
+a) You can use any of your favorite scripting language
+b) Naming convention of file should be your userid following with the challenge (Eg: <userid>_challenge1.<.pl|.py|.sh|.rb)
+c) Its always good to have options but here all tasks are mandatory and holds points to identify monthly winner.
+d) Make sure you add your script in this folder ONLY
+
+### Hints & Suggestions ###
+a) Use function for each Math operations for Bonus Points (add, substract, multiply & division) (5 Points)
+b) Please make sure you use understandable variable names and proper comments as this holds points as well. (5 Points)
+c) Logic (5 Points)
+
+### Challenge: Playing with Integers & Math ### 
+Take 2 Integers and do :
+a) verify both are integers only (5 Points)
+b) Verify a > b (5 Points)
+c) Take another input as operator and do add, Substract, Multiply, division with reminder (20 Points)
+d) verify if both integers are prime or not (5 Points)
+e) Swap the values of variable and print (eg: input: a=3, b=2 output: a=2, b=3) (5 Points)

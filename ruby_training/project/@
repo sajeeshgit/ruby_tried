@@ -1,0 +1,44 @@
+#!/usr/bin/ruby
+#
+#
+#
+
+###MAIN FUNCTION######
+
+
+
+
+
+
+
+
+
+
+
+####Message display on the screen####
+print "please enter the string : " 
+
+####Taking the Inpit from the user####
+
+string = gets.chomp.to_s
+
+
+####Checking if the user input is a string or not####
+
+if string =~ /[:alpha:]/
+     
+     main_function 
+
+    else
+
+     puts "Your string contains special charecters / numerals, try something like \"india\" "
+
+end
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+tvm_hdfs create,5
+,45
+oriondev mkdirs,2
+oriondev setPermission,1
+tvm_hdfs open,7
+d_sabre listStatus,21
+tvm_hdfs setPermission,2
+dfsload mkdirs,2
+dfsload setOwner,1
+dfsload setPermission,1
+tvm_hdfs listStatus,1
+oriondev create,1
+tvm_hdfs mkdirs,1

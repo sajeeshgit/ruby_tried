@@ -1,0 +1,22 @@
+#!/usr/bin/ruby
+#
+#
+#
+
+puts "Enter the size of the array you wanna build :"
+n = gets.chomp.to_i
+
+
+puts "Enter #{n} values into your array and press enter after each :"
+array = Array.new(0)
+
+
+for i in 0..n
+
+ array[i] = gets.chomp 
+
+end
+
+puts array.inspect
+
+

@@ -1,0 +1,8 @@
+Tips to answer: DevOps is so diverse and inclusiv hsat 
+it rarely ends with coding, testing and systems. A Dev
+Ops project might rely on database platforms like SQL or NoSQ
+L, data structure servers like Redis, or configuration an
+d management issue tracking systems like Redmine. Web 
+applications are popular for modern enterpris
+es, making a background with Web servers, 
+like Microsoft Internet Information Services, Apache Tomcat or other Web 
